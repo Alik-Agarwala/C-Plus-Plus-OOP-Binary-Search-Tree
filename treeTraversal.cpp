@@ -24,7 +24,7 @@ class BST
         else
             insertNodeBST(root->right, data);
     }
-    void performLevelOrderTraversal(Node *root)
+    void performLevelOrderTraversal(Node *root) //BFS for tree traversal
     {
         if (!root)
             return;
