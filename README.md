@@ -7,3 +7,7 @@ This repository contains an object-oriented implementation of a Binary Search Tr
 3. `findHeight.cpp`: This code snippet helps to find the height of a BST, which represents the maximum number of edges in any path from the root to a leaf node.
 4. `findMinMaxFromBST.cpp`: This code snippet is used to find the minimum and maximum values from a BST efficiently.
 5. `treeTraversal.cpp`: This program demonstrates various types of tree traversal techniques, including level order traversal, preorder traversal, postorder traversal, and inorder traversal.
+
+- <!-- Authors -->
+## Contributors
+<a href="https://github.com/Alik-Agarwala/C-Plus-Plus-OOP-Binary-Search-Tree/contributors"><img src="https://contrib.rocks/image?repo=Alik-Agarwala/C-Plus-Plus-OOP-Binary-Search-Tree"></a>
